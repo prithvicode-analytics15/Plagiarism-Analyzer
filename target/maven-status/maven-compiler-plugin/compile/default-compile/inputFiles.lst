@@ -1,0 +1,16 @@
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\app\Main.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\gui\LoginFrame.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\gui\MainFrame.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\model\AnalysisResult.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\model\DocumentData.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\model\SentenceMatch.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\service\algorithm\BigramJaccard.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\service\algorithm\Cosine.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\service\algorithm\Jaccard.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\service\algorithm\SimilarityAlgorithm.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\service\algorithm\TfIdfCosine.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\service\DatabaseManager.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\service\DocumentReader.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\service\PdfReportGenerator.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\service\SimilarityService.java
+C:\Users\prith\Downloads\PlagiaCheck_Upgraded_Source\src\main\java\service\TextProcessor.java
